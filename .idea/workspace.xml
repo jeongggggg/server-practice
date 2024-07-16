@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c47c144b-b49d-4c3e-89a4-f9f6531033c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="c47c144b-b49d-4c3e-89a4-f9f6531033c0" name="Changes" comment="maven 프로젝트 생성, servlet api 사용 및 파일 빌드, jsp 파일 생성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jeongggggg/java-server.git",
+    "accountId": "831133d4-fd54-4156-bf09-827cd5369609"
+  }
+}]]></component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -103,6 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721118814422</updated>
     </task>
+    <task id="LOCAL-00001" summary="maven 프로젝트 생성, servlet api 사용 및 파일 빌드, jsp 파일 생성">
+      <option name="closed" value="true" />
+      <created>1721139183407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721139183407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="maven 프로젝트 생성, servlet api 사용 및 파일 빌드, jsp 파일 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven 프로젝트 생성, servlet api 사용 및 파일 빌드, jsp 파일 생성" />
   </component>
 </project>
